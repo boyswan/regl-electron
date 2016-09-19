@@ -1,4 +1,4 @@
 # regl-electron
 ---
 
-## Interactive Electron app w/ WebGL, Kinect & Ableton 
+#### Interactive Electron app w/ WebGL, Kinect & Ableton 
